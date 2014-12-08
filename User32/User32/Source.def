@@ -1,0 +1,12 @@
+LIBRARY user32
+EXPORTS
+    GetDesktopWindow
+    GetProcessWindowStation
+    GetUserObjectInformationW
+    MessageBoxA
+    CharPrevA
+    LoadStringA
+    GetLastActivePopup
+    GetUserObjectInformationA
+    GetActiveWindow
+
