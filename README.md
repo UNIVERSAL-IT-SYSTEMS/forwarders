@@ -1,6 +1,6 @@
 Forwarders and Stubs
 ==========
-To help with porting, a [Forwarder and Stubs repository](http://github.com/ms-iot/forwarders) has been created. Please feel free commit those APIs needed to run specific applications. 
+To help with porting, a [Forwarder and Stubs repository](http://github.com/ms-iot/forwarders) has been created. Please feel free contribute APIs needed to run specific applications. 
 
 # Building and Deploying the Forwarder and Stubs
 To use the forwarder and stubs:
