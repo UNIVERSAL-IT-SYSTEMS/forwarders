@@ -9,4 +9,6 @@ EXPORTS
     GetLastActivePopup
     GetUserObjectInformationA
     GetActiveWindow
+    UnregisterClassW
+	MessageBoxW
 
