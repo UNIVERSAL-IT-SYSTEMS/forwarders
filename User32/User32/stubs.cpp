@@ -133,3 +133,27 @@ BOOL WINAPI GetUserObjectInformationA(
     UNREFERENCED_PARAMETER(lpnLengthNeeded);
     return FALSE;
 }
+
+BOOL WINAPI UnregisterClassW(
+  _In_      LPCWSTR lpClassName,
+  _In_opt_  HINSTANCE hInstance
+)
+{
+    UNREFERENCED_PARAMETER(lpClassName);
+    UNREFERENCED_PARAMETER(hInstance);
+    return FALSE;
+}
+WINUSERAPI
+int WINAPI MessageBoxW(
+	_In_opt_  HWND hWnd,
+	_In_opt_  LPCWSTR lpText,
+	_In_opt_  LPCWSTR lpCaption,
+	_In_      UINT uType
+	)
+{
+	UNREFERENCED_PARAMETER(hWnd);
+	UNREFERENCED_PARAMETER(lpText);
+	UNREFERENCED_PARAMETER(lpCaption);
+	UNREFERENCED_PARAMETER(uType);
+	return 0;
+}
