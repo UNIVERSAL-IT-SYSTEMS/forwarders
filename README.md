@@ -15,3 +15,8 @@ To use the forwarder and stubs:
 
 # Updating the Forwarders
 Please refer to the [Forwarders and Stubs](http://ms-iot.github.io/content/Forwarders.htm) documentation for information on how to update this project.
+
+
+===
+
+This project has adopted the [Microsoft Open Source Code of Conduct](http://microsoft.github.io/codeofconduct). For more information see the [Code of Conduct FAQ](http://microsoft.github.io/codeofconduct/faq.md) or contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments. 
